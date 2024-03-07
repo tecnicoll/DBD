@@ -1,0 +1,118 @@
+body 
+{
+	font-family:arial, sans-serif;
+}
+
+header
+{
+
+.centered-content {
+    text-align: center;
+}
+    padding:10px;
+    text-align:center;
+	font-family:arial;
+	background-color:#0D3934;
+}
+
+nav
+{
+    text-align:center;
+}
+ul li
+{
+    display:inline;
+    padding-left:5px;
+    padding-right:5px;
+    text-align:left;
+    font-size:16px;
+    font-weight:bold;
+}
+
+section
+{
+    padding:5px;
+    margin-top:5px;
+	font-family:arial;
+}
+
+aside {
+  width: 30%;
+  padding-left: 5px;
+  margin-left: 5px;
+  float: right;
+  font-style: italic;
+  background-color: #;
+}
+
+footer
+{
+    padding:5px;
+    text-align:center;
+    font-weight:bold;
+	font-family:arial;
+	font-size:10px;
+	clear: both;
+	background-color:#0D3934;
+}
+
+
+
+h3
+{
+	font-style:italic;
+}
+
+/*styling for hyperlinks*/
+
+/* unvisited link */
+a:link {
+  color:#040f0e;
+}
+
+/* visited link */
+a:visited {
+  color: #A30A92;
+}
+
+/* mouse over link */
+a:hover {
+  color: #87D8FA;
+}
+
+/* selected link */
+a:active {
+  color: #F20A31;
+}
+article.gallery {
+ margin: 30px;
+ border: 1px solid #ccc;
+ float: left;
+ width: 150px;
+ 
+
+}
+
+article.gallery {
+    display: block;
+    width: 28%;
+    text-align: center;
+}
+article.gallery:hover {
+ border: 1px solid #777;
+}
+article.gallery img {
+ width: 28%;
+ height: auto;
+}
+article.desc {
+ padding: 10px;
+ font-size:10px;
+ font-weight:bold;
+ text-align: center;
+}
+
+#gallery {
+    margin: 0 auto;
+    text-align: center;
+}

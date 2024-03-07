@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Individual Career Support</title>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="../css/DBD.css">
+	<link rel="apple-touch-icon" sizes="180x180" href="../favicoms/apple-touch-icon.png"> 
+
+<link rel="icon" type="image/png" sizes="32x32" href="../favicoms/favicon-32x32.png"> 
+
+<link rel="icon" type="image/png" sizes="16x16" href="../favicoms/favicon-16x16.png"> 
+
+<link rel="manifest" href="../favicoms/site.webmanifest"> 
+ </head>
+<body>
+    <header>
+        
+				<img src="../images/Main_Logo.jpg" alt "DBD logo/>
+				</a>
+		
+    </header>
+	
+  <nav>
+ <ul>
+ <li><a href="../index.html">Home</a></li>
+   <li><a href="../pages/individual.html">Indivdual Sign-up and Resources</a></li>
+ <li><a href="../pages/Staff.html">Staff Profiles and Resources</a></li>
+ </ul>
+</nav>
+
+<div class="photo300">
+
+</div>
+
+
+
+	
+    <section>
+	
+	<center>
+        <h1>Individual Client Resources and Sign-Up</h1>
+		
+		<a><img src="../images/worker1.jpg" alt="shop" width="1000" height="600">
+				</a>
+     </center>
+		<p> 
+		By engaging with the services and programs offered by DBD, individuals can develop their skills, improve their employability, explore career options, and gain the necessary support to achieve their professional goals. DBD's comprehensive approach to individual development aims to empower individuals, boost their confidence, and equip them with the tools needed for success in the job market and beyond.
+		
+		
+		
+Skills Training Workshops: DBD conducts skills training workshops designed to enhance the employability of individuals. These workshops cover a variety of topics such as resume writing, interview skills, communication skills, time management, and professional development. By participating in these workshops, individuals can acquire and refine essential skills that are highly valued in the job market.
+<p>
+<ul>
+<li><b>Job Placement Assistance:</b> DBD provides job placement assistance to individuals seeking employment opportunities. They offer support in job searching, resume customization, and interview preparation. DBD maintains strong connections with local employers and can help individuals connect with job openings that align with their skills and interests.</li>
+<p>
+<li><b>Career Counseling and Guidance:</b> DBD offers career counseling and guidance services to help individuals explore their career options, identify their strengths and interests, and develop a strategic career plan. Professional career counselors are available to provide personalized advice and guidance, assisting individuals in making informed decisions about their career paths.</li>
+<p>
+<li><b>Entrepreneurship Support: </b>For individuals interested in starting their own businesses, DBD provides entrepreneurship support. This includes mentoring, business planning assistance, access to resources and networks, and guidance on legal and regulatory requirements. DBD can help aspiring entrepreneurs navigate the complexities of launching and growing a successful business.</li>
+<p>
+<li><b>Financial Literacy and Support:</b> DBD offers programs and workshops focused on financial literacy and management. This includes topics such as budgeting, financial planning, credit management, and access to financial resources. By improving financial knowledge and skills, individuals can make informed decisions and achieve greater financial stability.</li>
+<p>
+<li><b>Networking and Community Engagement: </b>DBD organizes networking events, conferences, and community engagement activities that bring together individuals from various industries and backgrounds. These events provide opportunities for individuals to expand their professional networks, establish connections, and gain exposure to a diverse range of career opportunities.</li>
+<p>
+<li><b>Personal Development Resources: </b>DBD provides access to personal development resources, including online courses, self-help materials, and tools for personal growth. These resources cover areas such as leadership development, emotional intelligence, resilience building, and goal setting. Individuals can leverage these resources to enhance their personal and professional capabilities.</li>
+</ul>		
+		
+		</p>
+		
+		
+			
+	
+	<footer>
+        <hr/>
+        Copyright (C) 2023. All rights reserved.
+    </footer>
+
+<script src="signup.js"></script>
+	
+</body>
+
+
+</html>
+	
